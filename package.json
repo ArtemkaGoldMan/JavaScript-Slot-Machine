@@ -1,13 +1,24 @@
 {
   "name": "javascript-slot-machine",
   "version": "1.0.0",
+  "description": "js pract",
   "main": "project.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemkaGoldMan/JavaScript-Slot-Machine.git"
+  },
+  "keywords": [
+    "gambling"
+  ],
+  "author": "me",
   "license": "ISC",
-  "description": "",
+  "bugs": {
+    "url": "https://github.com/ArtemkaGoldMan/JavaScript-Slot-Machine/issues"
+  },
+  "homepage": "https://github.com/ArtemkaGoldMan/JavaScript-Slot-Machine#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
